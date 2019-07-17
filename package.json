@@ -1,22 +1,22 @@
 {
-  "name": "fruit",
-  "version": "0.0.0",
-  "description": "this is my first test",
-  "main": "index.js",
-  "dependencies": {
-    "express": "^4.17.1"
-  },
-  "devDependencies": {},
-  "scripts": {
-    "test": "testmessage"
-  },
-  "repository": {
-    "type": "git",
-    "url": "https://github.com/ujjwal776"
-  },
-  "keywords": [
-    "marji"
-  ],
-  "author": "ujjwal",
-  "license": "MIT"
+    "name": "fruit",
+    "version": "0.0.0",
+    "description": "this is my first test",
+    "main": "index.js",
+    "dependencies": {
+        "express": "^4.17.1"
+    },
+    "devDependencies": {},
+    "scripts": {
+        "test": "testmessage"
+    },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/ujjwal776"
+    },
+    "keywords": [
+        "marji"
+    ],
+    "author": "ujjwal",
+    "license": "MIT"
 }
