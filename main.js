@@ -7,4 +7,13 @@ let mainWindow;
 app.on('ready', function() {
     // create new Window
     mainWindow = new BrowserWindow({});
+    mainWindow.loadURL(url.format({
+        pathname: path.join(_dirnmae, 'mainWindow.htm'),
+        protocol: 'file:',
+        slashes: true
+
+
+
+    }))
+
 });
